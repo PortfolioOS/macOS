@@ -1,6 +1,10 @@
 # macOS
 Portfolios/website with macOS theme
 
+## Demos
+* https://macos.vercel.app
+* https://portfolio.zxh.io
+
 ## Repositories
 * https://github.com/PuruVJ/macos-web
 * https://github.com/Renovamen/playground-macos
